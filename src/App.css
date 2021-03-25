@@ -25,10 +25,3 @@
   flex-direction: column;
 }
 
-.project-card-content{
-  display: flex;
-}
-.project-image img{
-  height: 200px;
-}
-

@@ -1,0 +1,31 @@
+
+.project-card-content{
+    display: flex;
+    align-items: center;
+    width:600px;
+    height:200px;
+  }
+  
+.project-card-content p,h2{
+margin: 0;
+}
+
+.project-card-content span{
+    font-weight: bold;
+}
+
+.project-description{
+    height: 5rem;
+}
+
+.project-image img{
+height: 150px;
+width: 220px; 
+object-fit: cover;
+box-shadow: 1px 1px 5px grey;
+}
+
+.project-description-container{
+    margin-left: 1.5rem;
+}
+  
